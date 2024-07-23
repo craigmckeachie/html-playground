@@ -2,3 +2,28 @@ p {
   color: white;
   background-color: blue;
 }
+
+.fancy{
+  font-family:cursive;
+}
+
+.red{
+  color: red;
+}
+
+.box{
+  border: 1px solid black;
+}
+
+#truck-image{
+  width: 300px;
+  height: 178px;
+}
+
+a{
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: underline;
+}
